@@ -6,7 +6,8 @@ def hello_t(array)
     i += 1 
   end
   
-  array 
+    array 
+else
 end
 
 # call your method here!
